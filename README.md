@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Minecraft**
 
-- ⚡ Fun fact **I am 12 years old.**
+- ⚡ Fun fact **I am 13 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
