@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godofgaming1" alt="godofgaming1" /></a> </p>
 
-- 🔭 I’m currently working on **Terminal-Based Game**
+- 🔭 I’m currently working on **Godot Engine**
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Java, JavaScript**
 
